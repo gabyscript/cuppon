@@ -1,0 +1,32 @@
+* {
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.navbar {
+    width: 100vw;
+    height: 12vh;
+    position: fixed;
+}
+
+.nav-logo {
+    width: 16vw;
+    height: 12vh;
+    margin-left:4vw;
+}
+
+.main {
+    padding-top: 15vh;
+}
+
+.footer {
+    width: 100vw;
+    height: 20vh;
+}
+
+.footer-logo {
+    width: 13vw;
+    height: 10vh;
+}
